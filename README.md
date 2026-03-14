@@ -18,6 +18,8 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 - [MindMate](detail/mindmate.md)
 - [Anlio](detail/anlio.md)
 - [BiGör](detail/bigor.md)
+- [Hairmatic](detail/hairmatic.md)
+- [Cartoon Weather](detail/cartoon-weather.md)
 
 
 ## Katkıda Bulunmak
