@@ -1,6 +1,6 @@
 # BlockNova [Open source]
 
-<img height="400" alt="BlockNova App" src="{SCREENSHOT_URL}" />
+<img height="400" alt="BlockNova App" src="https://github.com/user-attachments/assets/c8bc8900-df81-47d4-9835-2894141aa372" />
 
 - **App adı:** BlockNova
 - **App size:** 2.4 mb
